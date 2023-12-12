@@ -1,4 +1,4 @@
-//
+package fr.einfolearning.tp2;//
 // Utilisation nominale des classes td3.Buffer, Killring et td3.Editor
 //
 ////////////////////////////////////////////////////////////////
